@@ -42,7 +42,7 @@ This project is great because it blends analog components, component calibration
 full schematic available in /schematic/ folder. 
 This can be opened in KiCAD for viewing
 You can also view the schematic pdf in said folder for easy viewing 
----
+
 
 ## Arduino IDE Code 
 
@@ -81,6 +81,8 @@ An image of the real-world circuit is in the /Images/ folder. The image is of an
 ## License
 This project is open-source under the LICENSE
 
-##Other project uses
+-- 
+
+## Other project uses
 I have used this circuit to measure the temperature of a refrigerator to study its heating/cooling processes as well as its coefficient of performance. 
 
