@@ -65,7 +65,7 @@ You may change your thermistor calibration as you see fit
 
 ## Images
 An image of the real-world circuit is in the /Images/ folder. The image is of an Arduino Uno but can be changed with an Arduino Nano if needed. 
----
+
 
 ## How to use 
 1. Wire the circuit according to the schematic
