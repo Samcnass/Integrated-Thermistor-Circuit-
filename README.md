@@ -15,6 +15,8 @@ The system compares the two temperatures and will light up:
 
 This project is great because it blends analog components, component calibration, and simple boolean logic using an Arduino. It is also easily expandable to other projects. 
 
+A full schematic, PCB design, and Arduino IDE code are available via included folders. 
+
 ## Compenents required for project
 
 | Component                      | Quantity |
@@ -44,7 +46,11 @@ This can be opened in KiCAD for viewing.
 You can also view the schematic pdf in said folder for easy viewing.
 The schematic was done outside of class and was part of a personal project. 
 
-
+## PCB
+Full PCB file is available in /PCB/ folder. 
+This can be opened in KiCAD for viewing.
+You can also view the PCB png for easy viewing.
+The PCB was designed as part of a personal project.
 
 ## Arduino IDE Code 
 
