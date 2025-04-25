@@ -40,8 +40,10 @@ This project is great because it blends analog components, component calibration
 ## Circuit Schematic 
 
 full schematic available in /schematic/ folder. 
-This can be opened in KiCAD for viewing
-You can also view the schematic pdf in said folder for easy viewing 
+This can be opened in KiCAD for viewing.
+You can also view the schematic pdf in said folder for easy viewing.
+The schematic was done outside of class and was part of a personal project. 
+
 
 
 ## Arduino IDE Code 
@@ -77,6 +79,7 @@ An image of the real-world circuit is in the /Images/ folder. The image is of an
 
 ## Future Improvements
 - Add OLED display for real-time temperature readout instead of using console
+- Implement circuit onto a complete PCB board and implement in thermodynamics experiements
   
 ## License
 This project is open-source under the LICENSE
