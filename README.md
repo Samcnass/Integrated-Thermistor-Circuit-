@@ -17,7 +17,7 @@ This project is great because it blends analog components, component calibration
 
 A full schematic, PCB design, and Arduino IDE code are available via included folders. 
 
-## Compenents required for project
+## Components required for project
 
 | Component                      | Quantity |
 |-------------------------------|----------|
